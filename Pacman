@@ -1,0 +1,6 @@
+//pacman
+fill(248,237,49);
+noStroke();
+arc(100,75,9,9);
+fill(0);
+ellipse(110,75,9,9);
